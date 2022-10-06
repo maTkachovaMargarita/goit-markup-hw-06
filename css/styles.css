@@ -507,6 +507,7 @@ img {
 
 .footer-wrapper:last-child {
     margin-right: 0px;
+    margin-left: auto;
 }
 
 .footer .logo {
